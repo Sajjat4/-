@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MYRA</string>
+    <string name="launcher_label">MYRA</string>
+    <string name="accessibility_service_description">MYRA Universal Autonomous Assistant - স্ক্রিন পর্যবেক্ষণ ও স্বয়ংক্রিয় নেভিগেশন সেবা।</string>
+    <string name="foreground_service_title">MYRA AI ব্যাকগ্রাউন্ড সার্ভিস</string>
+    <string name="foreground_service_text">ভয়েস সহকারী ও অটোনোমাস এজেন্ট সক্রিয় আছে</string>
+</resources>

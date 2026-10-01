@@ -1,0 +1,1 @@
+export { MessengerAdapter } from './WhatsAppAdapter';

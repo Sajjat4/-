@@ -1,0 +1,1 @@
+export { GenericMessagingAdapter } from './WhatsAppAdapter';

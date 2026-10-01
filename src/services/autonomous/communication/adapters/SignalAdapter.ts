@@ -1,0 +1,1 @@
+export { SignalAdapter } from './WhatsAppAdapter';

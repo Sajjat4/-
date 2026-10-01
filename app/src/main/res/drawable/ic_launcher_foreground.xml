@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Ambient Glow -->
+    <path
+        android:fillColor="#4F46E5"
+        android:fillAlpha="0.25"
+        android:pathData="M54,20 A34,34 0 1,1 53.9,20 Z" />
+
+    <!-- Secondary Pulsing Ring -->
+    <path
+        android:fillColor="#818CF8"
+        android:fillAlpha="0.5"
+        android:pathData="M54,25 A29,29 0 1,1 53.9,25 Z" />
+
+    <!-- Core AI Orb -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M54,30 A24,24 0 1,1 53.9,30 Z" />
+
+    <!-- Inner Core Gradient Accent -->
+    <path
+        android:fillColor="#C084FC"
+        android:pathData="M54,36 A18,18 0 1,1 53.9,36 Z" />
+
+    <!-- Modern Dynamic Audio Waveform Overlay (MYRA Voice Emblem) -->
+    <!-- Bar 1 (Left outermost) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,48 L38,60 A2,2 0 0,0 42,60 L42,48 A2,2 0 0,0 38,48 Z" />
+
+    <!-- Bar 2 (Left inner) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,43 L44,65 A2,2 0 0,0 48,65 L48,43 A2,2 0 0,0 44,43 Z" />
+
+    <!-- Bar 3 (Center Primary Crest) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,38 L52,70 A2,2 0 0,0 56,70 L56,38 A2,2 0 0,0 52,38 Z" />
+
+    <!-- Bar 4 (Right inner) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,43 L60,65 A2,2 0 0,0 64,65 L64,43 A2,2 0 0,0 60,43 Z" />
+
+    <!-- Bar 5 (Right outermost) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66,48 L66,60 A2,2 0 0,0 70,60 L70,48 A2,2 0 0,0 66,48 Z" />
+
+    <!-- Sparkle Highlight -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M64,32 L65,35 L68,36 L65,37 L64,40 L63,37 L60,36 L63,35 Z" />
+
+</vector>
